@@ -1,0 +1,6 @@
+apiVersion: devops.harvey.io/v1alpha1
+kind: App
+metadata:
+  name: app-sample
+spec:
+  # TODO(user): Add fields here
